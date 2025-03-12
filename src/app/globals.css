@@ -4,7 +4,8 @@
 @theme {
   --font-jomhuria: "Jomhuria", serif;
   --text-default: 128px;
-  --text-large: 150px;
+  --text-larger: 150px;
+  --color-special-pink: #F10DED;
 }
 
 @layer base {
